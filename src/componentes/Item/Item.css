@@ -1,7 +1,5 @@
 .CardItem{
     display: inline-block;
-    justify-content: space-between;
-    align-items: center;
     margin: 15px;
     background-color: black;
     border: 1px solid purple;

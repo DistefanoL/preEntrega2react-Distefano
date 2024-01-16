@@ -1,3 +1,9 @@
 .Boton{
     margin: 5px;
 }
+
+.ItemCount{
+    display: flex;
+    align-items: center;
+    
+}
