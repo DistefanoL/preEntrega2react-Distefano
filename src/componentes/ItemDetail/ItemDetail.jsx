@@ -36,6 +36,9 @@ const ItemDetail = ({id, name, img, category, description, price, stock}) => {
                 <p>
                     Precio: ${price}
                 </p>
+                <p>
+                    stock: {stock}
+                </p>
             </section>
             <footer>
                 <ItemCount inicial={1} stock={stock} onAdd={handleOnAdd}/>
