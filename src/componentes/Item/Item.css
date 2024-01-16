@@ -1,0 +1,14 @@
+.CardItem{
+    display: inline-block;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px;
+    background-color: black;
+    border: 1px solid purple;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.ItemImg{
+    width: 50px;
+}
